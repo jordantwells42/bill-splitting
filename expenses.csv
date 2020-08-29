@@ -1,0 +1,6 @@
+Type,Amount,Date,Purchaser,Paid
+Electricity,$50.00 ,3-Sep,John,No
+Internet,$45.00 ,25-Aug,Adam,No
+Groceries,$40.00 ,25-Aug,Raul,No
+Dining Table,$150.00 ,18-Aug,Raul,No
+Torchys Dinner,$40.00 ,28-Aug,John,Yes
